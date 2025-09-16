@@ -5,13 +5,13 @@ const skills = [
   // Tech
   { name: "HTML/CSS", level: 95, category: "Tech" },
   { name: "JavaScript", level: 90, category: "Tech" },
-  { name: "PHP", level: 90, category: "Tech" },
-  { name: "Shopify (Liquid)", level: 90, category: "Tech" },
-  { name: "WordPress", level: 80, category: "Tech" },
+  { name: "WordPress", level: 90, category: "Tech" },
+  { name: "PHP", level: 70, category: "Tech" },
+  { name: "Shopify (Liquid)", level: 70, category: "Tech" },
   { name: "Wix", level: 90, category: "Tech" },
   { name: "GoHighLevel", level: 80, category: "Tech" },
   { name: "SEO", level: 80, category: "Tech" },
-  { name: "React", level: 90, category: "Tech" },
+  { name: "React", level: 70, category: "Tech" },
   { name: "Tailwind CSS", level: 85, category: "Tech" },
 
   // Backend

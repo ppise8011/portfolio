@@ -19,7 +19,7 @@ export const HeroSplitSection = () => {
   </h1>
 
   <p className="text-lg md:text-xl text-muted-foreground max-w-2xl opacity-0 animate-fade-in-delay-2 text-left">
-    A passionate <span className="text-muted-foreground font-semibold">Frontend Web Developer</span> with over <span className="font-semibold">2.5 years of experience</span> crafting modern, responsive, and high-performing websites using <span className="font-semibold">Shopify</span>, <span className="font-semibold">Wordpress</span>, <span className="font-semibold">Webflow</span>, <span className="font-semibold">React</span> & <span className="font-semibold">Tailwind CSS</span>.
+    A passionate <span className="text-muted-foreground font-semibold">Frontend Web Developer</span> with over <span className="font-semibold">2.5 years of experience</span> crafting modern, responsive, and high-performing websites using <span className="font-semibold">Wordpress</span>, <span className="font-semibold">Shopify</span>, <span className="font-semibold">Php</span>, <span className="font-semibold">React</span> & <span className="font-semibold">Tailwind CSS</span>.
   </p>
 
   <ul className="space-y-3 mt-6 text-left">
